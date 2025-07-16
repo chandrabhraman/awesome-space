@@ -115,6 +115,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [obdh.space](https://obdh.space/) - An interactive, all-in-one space data platform with charts and live statistics about satellites, launches and more, updated every day.
 * [Satcat.com](https://satcat.com) - Satcat is a web application by Kayhan Space that provides search, visualizations, and orbital design tools
+* [Satellite Optical Sensor Calculator](https://opticalsatellitetools.space/) - Sensor specs configuration for optical EO satellites design, Revisit calculations,Optical Modeling 
 
 ### Astronomy Data
 
